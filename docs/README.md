@@ -1,13 +1,13 @@
 # Design Patterns with Python
 
-## Creational Patterns
-Abstract Factory
+### Creational Patterns
+- Abstract Factory
 
-## Structural Patterns
-Bridge
-Composite
-Decorator
+### Structural Patterns
+- Bridge
+- Composite
+- Decorator
 
-## Behavioral Patterns
-Mediator
-State
+### Behavioral Patterns
+- Mediator
+- State
